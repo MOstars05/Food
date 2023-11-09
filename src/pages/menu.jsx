@@ -4,9 +4,9 @@ import React from 'react'
 
 const Menu = () => {
   return (
-    <Box>
-      Menu 
-    </Box>
+    <div>
+      Menu
+    </div>
   )
 }
 

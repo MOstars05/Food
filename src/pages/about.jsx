@@ -3,9 +3,9 @@ import React from 'react'
 
 const About = () => {
   return (
-    <Box>
+    <div>
       About
-    </Box>
+    </div>
   )
 }
 
